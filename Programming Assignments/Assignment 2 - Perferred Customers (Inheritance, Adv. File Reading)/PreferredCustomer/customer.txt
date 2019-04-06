@@ -1,0 +1,7 @@
+Nadia Ajwa; 860 Stone Creek Blvd, Ashland, OH 44805; 419-555-1111; 111-AJ1234; true; 2000.99
+Iyad Ajwa; 860 Stone Creek Blvd, Ashland, OH 44805; 419-207-9492; 111-AJ1235; false; 500.00
+sdaf;sfsdfsdf
+dsaf
+s;s;s;s;true
+Julie James; 123 Main Street, Allentown, OH 44489; 567-555-1212; 147-A049; true; 1750.00
+Josiah Moore; 111 road ; 1-2-343531; 145-as-2fsdf2ds; true;12345.56453
