@@ -18,8 +18,6 @@ public class SpellCheck {
 
 		while (file.hasNext()) {
 			line = file.next();
-			if (line.contains("﻿"))
-				line = line.substring(3, line.length());
 			dic.insert(line);
 		}
 
